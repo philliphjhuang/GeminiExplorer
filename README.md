@@ -31,6 +31,9 @@ Initial Prompt
 This is something you can define your chatbot. Including what you want it to be called, what its style of chatting is going to be. All those requirements can be included in a text.
 ![image](https://github.com/philliphjhuang/RadicalX/assets/30792325/ecbf087a-ce87-4590-9af4-15c5870e602b)
 
+# Video demonstration
+https://www.loom.com/share/bf2035feca7a4380af98af9b9f17aa8f?sid=66ee6b75-8349-451a-aef0-1c79d188fb9b
+
 ## Contributers
 - Phillip Huang
   - [Linkedin](https://www.linkedin.com/in/phillip-huang-449b64229/)
