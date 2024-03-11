@@ -32,7 +32,7 @@ This is something you can define your chatbot. Including what you want it to be 
 ![image](https://github.com/philliphjhuang/RadicalX/assets/30792325/ecbf087a-ce87-4590-9af4-15c5870e602b)
 
 # Video demonstration
-<iframe width="560" height="315" src="https://www.loom.com/share/bf2035feca7a4380af98af9b9f17aa8fsid=66ee6b75-8349-451a-aef0-1c79d188fb9b" frameborder="0" allowfullscreen></iframe>
+[Watch the video](https://www.loom.com/share/bf2035feca7a4380af98af9b9f17aa8f?sid=9dde2dc4-7e3a-45da-8941-94f55c6fd271)
 
 ## Contributers
 - Phillip Huang
