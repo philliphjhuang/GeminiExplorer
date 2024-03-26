@@ -34,6 +34,9 @@ This is something you can define your chatbot. Including what you want it to be 
 # Video demonstration
 [Watch the video](https://www.loom.com/share/bf2035feca7a4380af98af9b9f17aa8f?sid=9dde2dc4-7e3a-45da-8941-94f55c6fd271)
 
+# Certificate
+![image](https://github.com/philliphjhuang/GeminiExplorer/assets/30792325/717398ce-e7e2-4b28-bb7c-17c8890828ad)
+
 ## Contributers
 - Phillip Huang
   - [Linkedin](https://www.linkedin.com/in/phillip-huang-449b64229/)
